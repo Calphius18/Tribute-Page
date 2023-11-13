@@ -1,0 +1,69 @@
+body {
+    height: 100vh;
+    margin: 3%;
+    background-image: url(https://i.ytimg.com/vi/HpIc7KE4_Dc/maxresdefault.jpg);
+     background-repeat: repeat;
+      background-size: cover;
+    border-style: solid;
+    border-color: dark blue;
+    border-width: 5px;
+  }
+  header {
+    background-color: #71D692;
+    margin: 10px 50px 5% 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  h1 {font-size: 4vmax;
+    font-family: Trebuchet MS;
+  text-align: center;}
+  h2 {font-size: 1.9vmax;
+    font-family: Trebuchet MS;
+  text-align: center;
+  border-radius: 50px;}
+  p {
+    font-size: 3.7vmax;
+    font-family: Brush Script MT;
+    text-align: center;}
+  #image {
+    max-width: 70vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: grey;
+    border-width: 5px;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+    text-align: center;
+    color: maroon;
+    font-size: 20px;}
+  li { font-size: 3.2vmin;}
+    #tribute-info {
+    margin: 1% 50% 10% 2%;
+    color: maroon;
+    border-style: solid;
+    border-color: #065c14;
+    border-width: 5px;
+    text-align: left;
+  border-radius: 25px;}
+    #songs {
+    margin: 25% 1% 10% 60%;
+    color: maroon;
+    border-style: solid;
+    border-color: #065c14;
+    border-width: 5px;
+    text-align: right;
+  border-radius: 25px;}
+  .image{
+    position: absolute;
+    right:50px;
+      top: 720px;}
+  
+  
+  
+  
